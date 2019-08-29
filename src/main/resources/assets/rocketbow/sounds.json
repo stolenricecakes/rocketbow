@@ -1,0 +1,8 @@
+{
+  "boom": {
+    "replace" : false,
+    "category": "master",
+    "subtitle": "BOOOOM",
+    "sounds": [ "rocketbow:boom" ]
+  }
+}

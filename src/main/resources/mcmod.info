@@ -1,0 +1,16 @@
+[
+{
+  "modid": "rocketbow",
+  "name": "rocketbow",
+  "description": "A bow that's a rocket.  Bonus!",
+  "version": "${version}",
+  "mcversion": "${mcversion}",
+  "url": "",
+  "updateUrl": "",
+  "authorList": ["YourFace"],
+  "credits": "Robert McJimBob, Jimmy Bob Jimjim-IV",
+  "logoFile": "",
+  "screenshots": [],
+  "dependencies": []
+}
+]
